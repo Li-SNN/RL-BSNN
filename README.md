@@ -1,4 +1,4 @@
-# RL-SNN
+# RL-BSNN
 DCMNet can be download at: https://github.com/oucailab/DCMNet  
 QI-CSNN can be download at: https://github.com/Li-SNN/CSNN   
 MS2CANet can be download at: https://github.com/junhengzhu/MS2CANet    
